@@ -13,7 +13,7 @@ public static void main(String[] args) {
 	try
 	{
 		fos=new FileOutputStream("krishnasai.txt");
-		System.out.println("file is ready for your the writing data enter below");
+		System.out.println("file is ready for data ,write below");
 		Scanner sc=new Scanner(System.in);
 		String str=sc.nextLine();
 		char ch=0;
